@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 |:----------------------:|:---------------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeevani09&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevani09&theme=default) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevani09&layout=compact)
+![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevani09&theme=default)
 
 ## 🚀 Achievements
 
