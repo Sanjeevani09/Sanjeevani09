@@ -8,19 +8,19 @@
 
 ## 🧑🏼‍🎓 About Me
 
-- 🔭 I’m currently working on *improving my tech skills*.
+- 🔭 I’m currently working on **improving my tech skills**.
 
-- 🌱 I’m currently learning *Data Structures and Algorithms*.
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 🤔 I’m seeking assistance with *I’m seeking assistance with exploring new career opportunities*.
+- 🤔 I’m seeking assistance with **exploring new career opportunities**.
 
-- 💬 Feel free to ask me about *my projects and interests*.
+- 💬 Feel free to ask me about **my projects and interests**.
 
-- 📫 How to reach me: *<a href="#-connect--engage">Sanjeevani Gupta</a>*
+- 📫 How to reach me: **<a href="#-connect--engage">Sanjeevani Gupta</a>**
 
-- 😄 Pronouns: *she/her*
+- 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact: *I Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!*
+- ⚡ Fun fact: **I Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!!**
 
 <!--
 *Sanjeevani09/Sanjeevani09* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 
 ## 🚀 Achievements
 
-- 🎓 *Certified in Cloud Computing* from [NPTEL](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS17S36230058330495045)
-- 📊 *Data Visualization* from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/030)
+- 🎓 **Certified in Cloud Computing** from [NPTEL](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS17S36230058330495045)
+- 📊 **Data Visualization** from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/030)
 
 ## 🎨 Hobbies / Interests
 
-- 📚 *Reading self-help books* - Interested in personal growth and development.
-- 🌐 *Tech blogs* - Always on the lookout for the latest trends and innovations in tech.
-- 🧘 *Spirituality* - Engaged in exploring spiritual practices and beliefs.
-- ✍️ *Writing* - Passionate about expressing thoughts and creativity through writing.
-- ✈️ *Traveling* - Enjoys exploring new places and cultures.
+- 📚 **Reading self-help books** - Interested in personal growth and development.
+- 🌐 **Tech blogs** - Always on the lookout for the latest trends and innovations in tech.
+- 🧘 **Spirituality** - Engaged in exploring spiritual practices and beliefs.
+- ✍️ **Writing** - Passionate about expressing thoughts and creativity through writing.
+- ✈️ **Traveling** - Enjoys exploring new places and cultures.
 
 ## 🎖 GitHub Trophies
 
