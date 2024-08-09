@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevani09&theme=default)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevani09&theme=github)
 
 </div>
 
