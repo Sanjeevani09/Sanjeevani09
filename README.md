@@ -20,7 +20,7 @@
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact: **I Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!!**
+- ⚡ Fun fact: **Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!!**
 
 <!--
 *Sanjeevani09/Sanjeevani09* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
