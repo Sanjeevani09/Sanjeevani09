@@ -2,19 +2,17 @@
 
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanjeevani09&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjeevani09&color=blue)
 
 </div>
 
 ## 🧑🏼‍🎓 About Me
 
-- 🔭 I’m currently working on *enhancing my skills*.
+- 🔭 I’m currently working on *improving my tech skills*.
 
 - 🌱 I’m currently learning *Data Structures and Algorithms*.
 
-- 👯 I’m looking to collaborate on *<a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>*.
-
-- 🤔 I’m seeking assistance with *developing my own model* to understand and answer queries specifically for standard 4th history subject.
+- 🤔 I’m seeking assistance with *I’m seeking assistance with exploring new career opportunities*.
 
 - 💬 Feel free to ask me about *my projects and interests*.
 
@@ -22,7 +20,7 @@
 
 - 😄 Pronouns: *she/her*
 
-- ⚡ Fun fact: *I once debugged a piece of code for so long that I started dreaming in syntax!*
+- ⚡ Fun fact: *I Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!*
 
 <!--
 *Sanjeevani09/Sanjeevani09* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -67,16 +65,16 @@ Here are some ideas to get you started:
 
 ## 🚀 Achievements
 
-- 🎓 *Software Testing* from [NPTEL]()
-- 📊 *Data Visualization* from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/)
+- 🎓 *Certified in Cloud Computing* from [NPTEL](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS17S36230058330495045)
+- 📊 *Data Visualization* from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/030)
 
 ## 🎨 Hobbies / Interests
 
-- 👔 *Fashion/Grooming* - Passionate about staying stylish and well-groomed.
-- 🎬 *Movies and series* - Enjoy watching a variety of genres.
-- 🎮 *Playing games* - Love spending time on video games and exploring new ones.
-- 🎥 *Anime* - Avid fan of anime series and movies.
-- 📚 *Reading tech blogs* - Always on the lookout for the latest trends and innovations in tech.
+- 📚 *Reading self-help books* - Interested in personal growth and development.
+- 🌐 *Tech blogs* - Always on the lookout for the latest trends and innovations in tech.
+- 🧘 *Spirituality* - Engaged in exploring spiritual practices and beliefs.
+- ✍️ *Writing* - Passionate about expressing thoughts and creativity through writing.
+- ✈️ *Traveling* - Enjoys exploring new places and cultures.
 
 ## 🎖 GitHub Trophies
 
