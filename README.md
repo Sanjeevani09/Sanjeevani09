@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjeevani09)](https://github.com/iakashchoudhary)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjeevani09)](https://github.com/Sanjeevani09)
 
 </div>
 
