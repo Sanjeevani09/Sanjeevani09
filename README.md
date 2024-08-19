@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 🤔 I’m seeking assistance with **exploring new career opportunities**.
+- 🤔 I’m seeking assistance with **exploring new opportunities**.
 
 - 💬 Feel free to ask me about **my projects and interests**.
 
