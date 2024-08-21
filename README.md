@@ -20,7 +20,7 @@
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact: **Java was named after coffee because its creators wanted a language as energetic as their caffeine fix!!!**
+- ⚡ Fun fact: **Debugging is like being a detective in a mystery where you’re both the culprit and the detective!**
 
 <!--
 *Sanjeevani09/Sanjeevani09* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
