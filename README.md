@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanjeevani09)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/guptasanjeevani1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SanjeevaniGupta)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjeevani09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevani-gupta-a59819216)
 
 </div>
