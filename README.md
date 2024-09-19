@@ -66,13 +66,13 @@ Here are some ideas to get you started:
 |:----------------------:|:---------------------:|
 |![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevani09&theme=github) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevani09&layout=compact)
 
-<--
+<!--
 <div align="center">
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevani09&theme=github)
 
 </div>
--->
+--!>
 
 ## 🚀 Achievements
 
