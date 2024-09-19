@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🚀 Top Languages
-<div align="center">
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevani09&layout=compact)
 </div>
 
