@@ -102,5 +102,6 @@ Here are some ideas to get you started:
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjeevani09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevani-gupta-a59819216)
 [![Dev](https://img.shields.io/badge/Dev-%230A66C2?style=flat-square&logo=dev.to&logoColor=white)](https://app.daily.dev/sanjeevanigupta)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%2300A7E1?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@guptasanjeevani970/)
 
 </div>
