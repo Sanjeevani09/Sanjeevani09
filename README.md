@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🖥 Technologies & Tools
+## 🖥 Technologies & Tools 
 
 <div align="center">
 
