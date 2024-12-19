@@ -95,13 +95,13 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect & Engage
 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guptasanjeevani970@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjeevani09)
+[![Dev](https://img.shields.io/badge/Dev-%230A66C2?style=flat-square&logo=dev.to&logoColor=white)](https://app.daily.dev/sanjeevanigupta)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guptasanjeevani970@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanjeevani09)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/guptasanjeevani1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SanjeevaniGupta)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjeevani09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevani-gupta-a59819216)
-[![Dev](https://img.shields.io/badge/Dev-%230A66C2?style=flat-square&logo=dev.to&logoColor=white)](https://app.daily.dev/sanjeevanigupta)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%2300A7E1?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@guptasanjeevani970/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SanjeevaniGupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevani-gupta-a59819216)
 
 </div>
